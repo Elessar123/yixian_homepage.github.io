@@ -26,9 +26,7 @@ Publications
 
 __Yixian Zhang__ \*, Huaze Tang \*, Huijing Lin, Wenbo Ding
 
-**ICLR 2025**
-
-[paper](https://openreview.net/forum?id=2vgcDW2blS)  | [code](your_code_link_1) 
+**ICLR 2025**  [paper](https://openreview.net/forum?id=2vgcDW2blS)  | [code](your_code_link_1) 
 
 <div style="clear:both;"></div>
 
@@ -37,8 +35,6 @@ __Yixian Zhang__ \*, Huaze Tang \*, Huijing Lin, Wenbo Ding
 
 __Yixian Zhang__, Zhuoxuan Li, Yiding Cao, Xuan Zhao, Jinde Cao
 
-**IEEE Transactions on Games**
-
-[paper](https://ieeexplore.ieee.org/document/10232894/authors#authors) 
+**IEEE Transactions on Games** [paper](https://ieeexplore.ieee.org/document/10232894/authors#authors) 
 
 <div style="clear:both;"></div>
