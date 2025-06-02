@@ -7,14 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year graduate student from Tsinghua Shenzhen International Graduate School (SIGS), [Tsinghua University](https://www.tsinghua.edu.cn). I am very fortunate to be advised by Prof. Wenbo Ding of [SSR Lab](https://ssr-group.net/), Tsinghua University. Before that, I 
+I'm a first-year graduate student from Tsinghua Shenzhen International Graduate School (SIGS), [Tsinghua University](https://www.tsinghua.edu.cn). I am very fortunate to be advised by Prof. Wenbo Ding of [SSR Lab](https://ssr-group.net/), Tsinghua University. Before that, I obtained my B.Sc. degree in computational mathematics from the School of Mathematics at Southeast University, Nanjing, China, in 2024. I was honored to complete my undergraduate thesis under the supervision of Prof. Xuan Zhao.
 
- My research interests include Reinforcement Learning, Optimization, and Robotics.
-
-
-A data-driven personal website
-======
-
+My research lies at the intersection of Reinforcement Learning, Optimization, and Robotics. I am particularly focused on advancing sample-efficient Reinforcement Learning, with a core objective of developing principled and effective credit assignment mechanisms. My long-term vision is to significantly enhance the learning efficiency of intelligent agents, thereby enabling robust and data-efficient control for complex robotic systems.
 
 
 Publications
