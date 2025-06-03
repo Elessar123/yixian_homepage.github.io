@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="files/CV_zyx.pdf" width="100%" height="800px" type="application/pdf">
+<embed src="yixian_homepage.github.io
+/files/CV_zyx.pdf" width="100%" height="800px" type="application/pdf">
