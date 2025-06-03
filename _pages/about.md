@@ -61,6 +61,8 @@ __Yixian Zhang__ \*, Huaze Tang \*, Huijing Lin, Wenbo Ding
 
 <div style="clear:both;"></div>
 
+<br>
+<br>
 
 <img src="images/paper_games.png" alt="Project 2 Thumbnail" width="200" style="float:left; margin-right: 20px; margin-bottom: 20px;"/>
 **Deep Reinforcement Learning Using Optimized Monte Carlo Tree Search in EWN** 
