@@ -14,6 +14,38 @@ My research lies at the intersection of Reinforcement Learning, Optimization, an
 
 Publications
 ======
+
+<img src="images/paper_newton.png" alt="Project 4 Thumbnail" width="200" style="float:left; margin-right: 20px; margin-bottom: 20px;"/>
+**Policy Newton Algorithm in Reproducing Kernel Hilbert Space** 
+
+__Yixian Zhang__ , Huaze Tang, Chao Wang, Wenbo Ding
+
+<div class="publication-meta-links">
+  <span class="journal-name"><em><strong>Arxiv</strong></em></span>
+  <span class="separator">|</span>
+  <span class="link-item"><a href="http://export.arxiv.org/abs/2506.01597">paper</a></span>
+  <span class="separator">|</span>
+  <span class="link-item"><a href="Coming soon!">code</a></span>
+</div>
+
+<div style="clear:both;"></div>
+
+<img src="images/paper_sac.png" alt="Project 3 Thumbnail" width="200" style="float:left; margin-right: 20px; margin-bottom: 20px;"/>
+**Bidirectional Soft Actor-Critic: Leveraging Forward and Reverse KL Divergence for Efficient Reinforcement Learning** 
+
+__Yixian Zhang__ , Huaze Tang, Changxu Wei, Wenbo Ding
+
+<div class="publication-meta-links">
+  <span class="journal-name"><em><strong>Arxiv</strong></em></span>
+  <span class="separator">|</span>
+  <span class="link-item"><a href="https://arxiv.org/html/2506.01639v1">paper</a></span>
+  <span class="separator">|</span>
+  <span class="link-item"><a href="Coming soon!">code</a></span>
+</div>
+
+<div style="clear:both;"></div>
+
+
 <img src="images/paper_1.png" alt="Project 1 Thumbnail" width="200" style="float:left; margin-right: 20px; margin-bottom: 20px;"/>
 **Residual Kernel Policy Network: Enhancing Stability and Robustness in RKHS-Based Reinforcement Learning** 
 
