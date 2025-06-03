@@ -25,7 +25,7 @@ __Yixian Zhang__ , Huaze Tang, Chao Wang, Wenbo Ding
   <span class="separator">|</span>
   <span class="link-item"><a href="http://export.arxiv.org/abs/2506.01597">paper</a></span>
   <span class="separator">|</span>
-  <span class="link-item"><a href="Coming soon!">code</a></span>
+  <span class="link-item"><a href="https://github.com/Elessar123/Policy-Newton-in-RKHS">code</a></span>
 </div>
 
 <div style="clear:both;"></div>
