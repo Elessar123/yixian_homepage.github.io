@@ -56,7 +56,7 @@ __Yixian Zhang__ \*, Huaze Tang \*, Huijing Lin, Wenbo Ding
   <span class="separator">|</span>
   <span class="link-item"><a href="https://openreview.net/forum?id=2vgcDW2blS">paper</a></span>
   <span class="separator">|</span>
-  <span class="link-item"><a href="your_code_link_1">code</a></span>
+  <span class="link-item"><a href="https://github.com/HuazeTang/jax_rl_algorithms">code</a></span>
 </div>
 
 <div style="clear:both;"></div>
