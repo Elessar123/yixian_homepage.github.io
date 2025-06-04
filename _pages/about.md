@@ -76,4 +76,4 @@ __Yixian Zhang__, Zhuoxuan Li, Yiding Cao, Xuan Zhao, Jinde Cao
 
 <div style="clear:both;"></div>
 
-<span style="font-size: 0.5em;">*More publications can be viewed in my* ***CV***</span>
+<span style="font-size: 0.9em;">*More publications can be viewed in my* ***CV***</span>
