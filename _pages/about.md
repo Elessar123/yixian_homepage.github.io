@@ -23,7 +23,7 @@ __Yixian Zhang__ , Huaze Tang, Chao Wang, Wenbo Ding
 <div class="publication-meta-links">
   <span class="journal-name"><em><strong>Arxiv</strong></em></span>
   <span class="separator">|</span>
-  <span class="link-item"><a href="http://export.arxiv.org/abs/2506.01597">paper</a></span>
+  <span class="link-item"><a href="https://arxiv.org/pdf/2506.01597">paper</a></span>
   <span class="separator">|</span>
   <span class="link-item"><a href="https://github.com/Elessar123/Policy-Newton-in-RKHS">code</a></span>
 </div>
