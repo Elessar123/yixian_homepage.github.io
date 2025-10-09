@@ -15,6 +15,21 @@ My research lies at the intersection of Reinforcement Learning, Optimization, an
 Publications
 ======
 
+<img src="images/paper_newton.png" alt="Project 5 Thumbnail" width="200" style="float:left; margin-right: 20px; margin-bottom: 20px;"/>
+**SAC Flow: Sample-Efficient Reinforcement Learning of Flow-Based Policies via Velocity-Reparameterized Sequential Modeling** 
+
+__Yixian Zhang__ , Shu'ang Yu, Tonghe Zhang, Mo Guang, Haojia Hui, Kaiwen Long, Yu Wang, Chao Yu, Wenbo Ding
+
+<div class="publication-meta-links">
+  <span class="journal-name"><em><strong>Arxiv</strong></em></span>
+  <span class="separator">|</span>
+  <span class="link-item"><a href="https://arxiv.org/pdf/2509.25756">paper</a></span>
+  <span class="separator">|</span>
+  <span class="link-item"><a href="https://sac-flow.github.io/">code</a></span>
+</div>
+
+<div style="clear:both;"></div>
+
 <img src="images/paper_newton.png" alt="Project 4 Thumbnail" width="200" style="float:left; margin-right: 20px; margin-bottom: 20px;"/>
 **Policy Newton Algorithm in Reproducing Kernel Hilbert Space** 
 
