@@ -15,7 +15,7 @@ My research lies at the intersection of Reinforcement Learning, Optimization, an
 Publications
 ======
 
-<img src="images/paper_newton.png" alt="Project 5 Thumbnail" width="200" style="float:left; margin-right: 20px; margin-bottom: 20px;"/>
+<img src="images/cube-quadruple.gif" alt="Project 5 Thumbnail" width="200" style="float:left; margin-right: 20px; margin-bottom: 20px;"/>
 **SAC Flow: Sample-Efficient Reinforcement Learning of Flow-Based Policies via Velocity-Reparameterized Sequential Modeling** 
 
 __Yixian Zhang__ , Shu'ang Yu, Tonghe Zhang, Mo Guang, Haojia Hui, Kaiwen Long, Yu Wang, Chao Yu, Wenbo Ding
