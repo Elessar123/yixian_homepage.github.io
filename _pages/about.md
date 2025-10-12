@@ -26,6 +26,8 @@ __Yixian Zhang__ , Shu'ang Yu, Tonghe Zhang, Mo Guang, Haojia Hui, Kaiwen Long, 
   <span class="link-item"><a href="https://arxiv.org/pdf/2509.25756">paper</a></span>
   <span class="separator">|</span>
   <span class="link-item"><a href="https://sac-flow.github.io/">code</a></span>
+  <span class="separator">|</span>
+  <span class="link-item"><a href="https://www.zhihu.com/search?type=content&q=SAC%20Flow">Zhihu</a></span>
 </div>
 
 <div style="clear:both;"></div>
