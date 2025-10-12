@@ -78,6 +78,8 @@ __Yixian Zhang__ \*, Huaze Tang \*, Huijing Lin, Wenbo Ding
 
 <div style="clear:both;"></div>
 
+<br>
+
 <img src="images/Cover_48_3d_2.png" alt="Project AE Thumbnail" width="200" style="float:left; margin-right: 20px; margin-bottom: 20px;"/>
 **High-dimensional Probability Preserving Scenario Reduction Method Using Adaptive Selection with Sampling for Large-scale Power System** 
 
