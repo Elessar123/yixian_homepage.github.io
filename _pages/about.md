@@ -93,6 +93,8 @@ __Yixian Zhang__, Yi Tang, Jiangyi Hu, Taishan Xu, Xiancheng Ren, Ren-jun Qi, We
 
 <div style="clear:both;"></div>
 
+<br>
+
 <img src="images/paper_games.png" alt="Project 1 Thumbnail" width="200" style="float:left; margin-right: 20px; margin-bottom: 20px;"/>
 **Deep Reinforcement Learning Using Optimized Monte Carlo Tree Search in EWN** 
 
