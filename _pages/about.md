@@ -101,7 +101,7 @@ __Yixian Zhang__, Yi Tang, Jiangyi Hu, Taishan Xu, Xiancheng Ren, Ren-jun Qi, We
 __Yixian Zhang__, Zhuoxuan Li, Yiding Cao, Xuan Zhao, Jinde Cao
 
 <div class="publication-meta-links">
-  <span class="journal-name"><em><strong>IEEE Transactions on Games</strong></em></span>
+  <span class="journal-name"><em><strong>IEEE Transactions on Games (JCRQ2, IF2.8)</strong></em></span>
   <span class="separator">|</span>
   <span class="link-item"><a href="https://ieeexplore.ieee.org/document/10232894/authors#authors">paper</a></span>
 </div>
