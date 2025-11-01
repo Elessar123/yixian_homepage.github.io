@@ -88,7 +88,7 @@ __Yixian Zhang__, Yi Tang, Jiangyi Hu, Taishan Xu, Xiancheng Ren, Ren-jun Qi, We
 <div class="publication-meta-links">
   <span class="journal-name"><em><strong>Applied Energy (JCR Q1 top, IF11)</strong></em></span>
   <span class="separator">|</span>
-  <span class="link-item"><a href="coming soon!">paper</a></span>
+  <span class="link-item"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0306261925016289">paper</a></span>
 </div>
 
 <div style="clear:both;"></div>
