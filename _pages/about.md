@@ -21,7 +21,7 @@ Publications
 __Yixian Zhang__ , Shu'ang Yu, Tonghe Zhang, Mo Guang, Haojia Hui, Kaiwen Long, Yu Wang, Chao Yu, Wenbo Ding
 
 <div class="publication-meta-links">
-  <span class="journal-name"><em><strong>Arxiv</strong></em></span>
+  <span class="journal-name"><em><strong>ICLR 2026</strong></em></span>
   <span class="separator">|</span>
   <span class="link-item"><a href="https://arxiv.org/pdf/2509.25756">paper</a></span>
   <span class="separator">|</span>
@@ -38,7 +38,7 @@ __Yixian Zhang__ , Shu'ang Yu, Tonghe Zhang, Mo Guang, Haojia Hui, Kaiwen Long, 
 __Yixian Zhang__ , Huaze Tang, Chao Wang, Wenbo Ding
 
 <div class="publication-meta-links">
-  <span class="journal-name"><em><strong>Arxiv</strong></em></span>
+  <span class="journal-name"><em><strong>ICLR 2026</strong></em></span>
   <span class="separator">|</span>
   <span class="link-item"><a href="https://arxiv.org/pdf/2506.01597">paper</a></span>
   <span class="separator">|</span>
