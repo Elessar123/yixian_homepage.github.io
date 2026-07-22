@@ -15,7 +15,7 @@ My research lies at the intersection of Reinforcement Learning, Optimization, an
 Publications
 ======
 
-<img src="images/harness_vla_bread_selection.gif" alt="Harness VLA Recycle Bottles By Type comparison between VLA fullshot and Harness VLA" width="200" style="float:left; margin-right: 20px; margin-bottom: 20px;"/>
+<img src="images/harness_vla_bread_selection.gif" alt="Harness VLA 2x2 comparison on RoboCasa365 Recycle Bottles By Type and LIBERO-Pro" width="200" style="float:left; margin-right: 20px; margin-bottom: 20px;"/>
 **Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents** 
 
 __Yixian Zhang__ , Huanming Zhang, Feng Gao, Xiao Li, Zhihao Liu, Chunyang Zhu, Jiaxing Qiu, Yuchen Yan, Jiyuan Liu, Wenhao Tang, Zhengru Fang, Yi Nie, Changxu Wei, Yu Wang, Wenbo Ding, Chao Yu
