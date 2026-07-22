@@ -15,6 +15,23 @@ My research lies at the intersection of Reinforcement Learning, Optimization, an
 Publications
 ======
 
+<img src="images/harness_vla_bread_selection.gif" alt="Harness VLA Bread Selection comparison between VLA fullshot and Harness VLA" width="200" style="float:left; margin-right: 20px; margin-bottom: 20px;"/>
+**Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents** 
+
+__Yixian Zhang__ , Huanming Zhang, Feng Gao, Xiao Li, Zhihao Liu, Chunyang Zhu, Jiaxing Qiu, Yuchen Yan, Jiyuan Liu, Wenhao Tang, Zhengru Fang, Yi Nie, Changxu Wei, Yu Wang, Wenbo Ding, Chao Yu
+
+<div class="publication-meta-links">
+  <span class="journal-name"><em><strong>Arxiv</strong></em></span>
+  <span class="separator">|</span>
+  <span class="link-item"><a href="https://arxiv.org/pdf/2607.08448">paper</a></span>
+  <span class="separator">|</span>
+  <span class="link-item"><a href="https://github.com/RLinf/RPent">code</a></span>
+  <span class="separator">|</span>
+  <span class="link-item"><a href="https://harnessvla.github.io/">project</a></span>
+</div>
+
+<div style="clear:both;"></div>
+
 <img src="images/cube-quadruple.gif" alt="Project 5 Thumbnail" width="200" style="float:left; margin-right: 20px; margin-bottom: 20px;"/>
 **SAC Flow: Sample-Efficient Reinforcement Learning of Flow-Based Policies via Velocity-Reparameterized Sequential Modeling** 
 
